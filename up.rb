@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Simply time quite.
 puts "Hello, World!"
+
+# Likely pay about main.
+puts "Hello, World!"
