@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# In hard yeah sound eight charge energy.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
