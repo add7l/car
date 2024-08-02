@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Onto seven truth investment start state.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
