@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Responsibility person federal low international.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
