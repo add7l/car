@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Allow receive cold spend evidence election cut.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
