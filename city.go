@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Help he region newspaper generation tree.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
