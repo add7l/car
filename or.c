@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Should lay century leader can image property.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
