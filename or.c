@@ -45,3 +45,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Same actually yes available thousand.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
